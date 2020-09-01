@@ -1,4 +1,4 @@
-# A-path-finding-algorithm 
+# A*-path-finding-algorithm 
 
 Pygame : pip install -r requirements.txt
 
