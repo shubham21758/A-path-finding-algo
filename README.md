@@ -7,8 +7,13 @@ https://www.geeksforgeeks.org/a-search-algorithm/
 
 
 #Keyboard Shortcuts :
-  Mouse left       : Start point
-  Mouse Right      : End point
-  Press 'space bar': To start 
-  Press 'c'        : To clear Screen 
+
+      Mouse left       : Start point
+
+      Mouse Right      : End point
+
+      Press 'space bar': To start 
+
+      Press 'c'        : To clear Screen 
+  
 
